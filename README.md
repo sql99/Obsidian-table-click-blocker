@@ -4,7 +4,6 @@ This plugin is designed for those who dislike Obsidian's default behavior with M
 
 # Obsidian's Original Behavior (Without the Plugin)
 
-(https://github.com/sql99/Obsidian-table-click-blocker/blob/main/Attachments/Default%20Behavior%20Table%20Click%20Blocker.mp4)
 
 
 # Obsidian's Behavior With the Table Click Blocker Plugin
