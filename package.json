@@ -1,0 +1,12 @@
+{
+  "name": "table-click-blocker",
+  "version": "1.0.0",
+  "description": "Prevents accidental clicks on tables in live preview mode.",
+  "main": "main.js",
+  "scripts": {
+    "dev": "echo 'No build needed'",
+    "build": "echo 'No build needed'"
+  },
+  "author": "sql99",
+  "license": "GPL-3.0-only"
+}
