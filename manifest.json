@@ -5,6 +5,6 @@
   "minAppVersion": "1.0.0",
   "description": "Prevents cursor jumping when clicking on markdown tables in Live Preview.",
   "author": "sql99",
-  "authorUrl": "",
+  "authorUrl": "https://github.com/sql99",
   "isDesktopOnly": false
 }
