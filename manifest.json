@@ -1,0 +1,10 @@
+{
+  "id": "table-click-blocker",
+  "name": "Table Click Blocker",
+  "version": "1.0.0",
+  "minAppVersion": "1.0.0",
+  "description": "Prevents cursor jumping when clicking on markdown tables in Live Preview.",
+  "author": "sql99",
+  "authorUrl": "",
+  "isDesktopOnly": false
+}
